@@ -10,7 +10,7 @@ Follow the [Instructions](https://github.com/salesforce/LAVIS/blob/main/README.m
 ## Dataset
 The common vision-language datasets could be downloaded by [automatic download tools](https://opensource.salesforce.com/LAVIS//latest/benchmark), which could be employed to organize these datasets.
 
-Then, modify the corresponding path in [configs](https://github.com/zhangy0822/ModeX/lavis/configs) and the [default.yaml](https://github.com/zhangy0822/ModeX/lavis/configs/default.yaml).
+Then, modify the corresponding path in [configs](lavis/configs) and the [default.yaml](lavis/configs/default.yaml).
 
 ## Training 
 
