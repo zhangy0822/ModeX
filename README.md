@@ -8,7 +8,7 @@
 Follow the [Instructions](https://github.com/salesforce/LAVIS/blob/main/README.md#installation) to create environment.
 
 ## Dataset
-The common vision-language datasets could be downloaded by [automatic download tools](https://opensource.salesforce.com/LAVIS//latest/benchmark), to help download and organize these datasets.
+The common vision-language datasets could be downloaded by [automatic download tools](https://opensource.salesforce.com/LAVIS//latest/benchmark), which could be employed to organize these datasets.
 
 Then, modify the corresponding path in [configs](https://github.com/zhangy0822/ModeX/lavis/configs) and the [default.yaml](https://github.com/zhangy0822/ModeX/lavis/configs/default.yaml).
 
