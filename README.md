@@ -14,7 +14,7 @@ Then, modify the corresponding path in [configs](lavis/configs) and the [default
 
 ## Training 
 
-Runing the scripts in [run_scripts](https://github.com/zhangy0822/ModeX/run_scripts) for training and evaluation.
+Runing the scripts in [run_scripts](run_scripts) for training and evaluation.
 
 For more details and advanced usages, please refer to [documentation](https://opensource.salesforce.com/LAVIS//latest/index.html#).
 
